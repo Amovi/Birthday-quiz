@@ -31,3 +31,9 @@ Example Session
   And the day? 11
   Eric, you are a fall baby of the stone age.
 """
+from datetime import datetime
+from calender import month_name
+input ("what is your name?")
+input ("what is the month you were born in?")
+input ("what year were you born in?")
+input ("on what day were you born?")
