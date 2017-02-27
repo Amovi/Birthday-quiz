@@ -32,7 +32,7 @@ Example Session
   Eric, you are a fall baby of the stone age.
 """
 from datetime import datetime
-from calender import month_name
+from calendar import month_name
 name = input ("what is your name?")
 month_b = input ("what is the month you were born in?")
 year = input ("what year were you born in?")
