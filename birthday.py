@@ -33,7 +33,7 @@ Example Session
 """
 from datetime import datetime
 from calender import month_name
-input ("what is your name?")
-input ("what is the month you were born in?")
-input ("what year were you born in?")
-input ("on what day were you born?")
+name = input ("what is your name?")
+month = input ("what is the month you were born in?")
+year = input ("what year were you born in?")
+day = input ("on what day were you born?")
