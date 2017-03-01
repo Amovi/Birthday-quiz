@@ -4,9 +4,30 @@ name = input ("what is your name?")
 month_b = input ("what is the month you were born in?")
 year = input ("what year were you born in?")
 day = input ("on what day were you born?")
-"get months to line up with numbers somehow idk"
-month = month_name[todaymonth]
-winter = [1,2,3]
-spring = [4,5,6]
-summer = [7,8,9]
-fall =  [10,11,12]
+if year == [2017,2016,2015,2014,2013,2012,2011,2010,]
+if year == [
+if month == "january":
+    season=winter
+if month == "february":
+    season=winter
+if month == "march":
+    season=spring
+if month == "April":
+    season=spring
+if month == "May":
+    season=spring
+if month == "June":
+    season=summer
+if month == "July":
+    season=summer
+if month == "august":
+    season=summer
+if month == "september":
+    season=fall
+if month == "october":
+    season=fall
+if month == "november":
+    season=fall
+if month == "december":
+    season=winter
+print (name "you are a" season "baby born in" yeargroup)
