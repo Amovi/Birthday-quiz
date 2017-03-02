@@ -15,27 +15,27 @@ if int(year) <= 1980:
 if month == "october" and day == "31":
     print ("You were born on Halloween")
 if month == "january":
-    season=winter
+    season="winter"
 if month == "february":
-    season=winter
+    season="winter"
 if month == "march":
-    season=spring
+    season="spring"
 if month == "April":
-    season=spring
+    season="spring"
 if month == "May":
-    season=spring
+    season="spring"
 if month == "June":
-    season=summer
+    season="summer"
 if month == "July":
-    season=summer
+    season="summer"
 if month == "august":
-    season=summer
+    season='summer"
 if month == "september":
     season=fall
 if month == "october":
-    season=fall
+    season="fall"
 if month == "november":
-    season=fall
+    season="fall"
 if month == "december":
-    season=winter
+    season="winter"
 print (name + "you are a" + yeargroup + "baby born in" + season)
