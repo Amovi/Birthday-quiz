@@ -29,7 +29,7 @@ if month == "June":
 if month == "July":
     season="summer"
 if month == "august":
-    season='summer"
+    season="summer"
 if month == "september":
     season=fall
 if month == "october":
