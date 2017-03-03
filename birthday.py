@@ -12,13 +12,13 @@ if int(year)in [1989,1989,1987,1986,1985,1984,1983,1982,1981,1980]:
     yeargroup="eighties"
 if int(year) <= 1980:
     yeargroup="stone age"
-if month == "october" and day == "31":
+if month == "October" and day == "31":
     print ("You were born on Halloween")
-if month == "january":
+if month == "January":
     season="winter"
-if month == "february":
+if month == "February":
     season="winter"
-if month == "march":
+if month == "March":
     season="spring"
 if month == "April":
     season="spring"
@@ -28,14 +28,14 @@ if month == "June":
     season="summer"
 if month == "July":
     season="summer"
-if month == "august":
+if month == "August":
     season="summer"
-if month == "september":
+if month == "September":
     season=fall
-if month == "october":
+if month == "October":
     season="fall"
-if month == "november":
+if month == "November":
     season="fall"
-if month == "december":
+if month == "December":
     season="winter"
-print (name + "you are a" + yeargroup + "baby born in" + season)
+print (name + " you are a " + yeargroup + " baby born in " + season)
